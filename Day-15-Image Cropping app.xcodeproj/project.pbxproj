@@ -58,8 +58,8 @@
 			isa = PBXGroup;
 			children = (
 				1885CD42295F596600830CAC /* Day_15_Image_Cropping_appApp.swift */,
-				1885CD51295F59B600830CAC /* Model */,
 				1885CD50295F59AE00830CAC /* View */,
+				1885CD51295F59B600830CAC /* Model */,
 				1885CD46295F596900830CAC /* Assets.xcassets */,
 				1885CD48295F596900830CAC /* Preview Content */,
 			);
